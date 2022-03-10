@@ -24,7 +24,8 @@ Ref: http://www.cis.syr.edu/~wedu/seed/toc.pdf
     - [x] [SQL Injection Attack Lab](./web/SQL-Injection)
     - [x] [Clickjacking Attack Lab](./web/Clickjacking)
 - [ ] Network Security
-    - [ ] Packet Sniffing & Spoofing Lab
+    - [x] [Packet Sniffing & Spoofing Lab](./network/Pakcet-Sniffing-Spoofing/)
+    - [x] [ICMP Redirect Lab](./network/ICMP-Redirect/)
     - [ ] TCP Attack Lab
     - [ ] Linux Firewall Lab
     - [ ] Bypassing Firewall using VPN
